@@ -1,0 +1,1 @@
+cd %APPDATA% && md pip && cd pip && echo [global] >> pip.ini && echo index-url = http://pypi.douban.com/simple >> pip.ini && echo trusted-host = pypi.douban.com >> pip.ini  
