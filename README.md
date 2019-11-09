@@ -13,3 +13,4 @@
 # 4. leetcode题解
 
 # 5. 简单C++题解
+- 5.1.[CodeSignal_centuryFromYear题解](CodeSignal/c1_easy.md)
