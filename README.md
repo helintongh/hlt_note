@@ -9,6 +9,7 @@
 - 1.3. [vim活用iab指令加快开发效率](md/03.md)
 - 1.4. [go中的socket编程](md/04.md)
 - 1.5. [SQLite使用基本指南](md/05.md)
+- 1.6. [Ubuntu18.04与Mysql5.7不得不说的故事之解决ERROR 1698 (28000): Access denied for user 'root'@'localhost'的解决办法](md/06.md)
 
 # 2. 我的胡言乱语
 
