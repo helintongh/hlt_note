@@ -13,6 +13,7 @@
 - 1.9. [从零实现一个简单的线程库](md/09.md)
 - 1.10 [JNI编程实战指南](md/10.md)
 - 1.11 [vscode&sourceinsight&clion常用快捷键总结](md/11.md)
+- 1.12 [thrift使用指南](md/12.md)
 
 
 ## 2. 我的胡言乱语
