@@ -15,6 +15,8 @@
 - 1.11 [vscode&sourceinsight&clion常用快捷键总结](md/11.md)
 - 1.12 [thrift使用指南](md/12.md)
 - 1.13 [docker基本使用指南](md/13.md)
+- 1.14 [一文掌握Shell](md/shell_guide.md)
+- 1.15 [gdb基础和gdb调试redis实战指南](md/gdb_exercise.md)
 
 
 
