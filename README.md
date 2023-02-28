@@ -1,9 +1,7 @@
 # 个人博客
 打算还是把博客放到github上，就这样qwq。
 
-## 19年 && 20年
-
-## 1. 与编程相关的思索
+## 杂项
 - 1.1. [将pip源一建换为公司本地源](md/01.md)
 - 1.2. [我对linux排错的思考以及解决MySQL两个常见错误的解决办法](md/02.md)
 - 1.3. [vim活用iab指令加快开发效率](md/03.md)
@@ -18,6 +16,7 @@
 - 1.14 [一文掌握Shell](md/shell_guide.md)
 - 1.15 [gdb基础和gdb调试redis实战指南](md/gdb_exercise.md)
 - 1.16 [vmware nat模式的虚拟机无法访问外网解决办法](md/nat_vmware.md)
+- 1.17 [wireshark过滤器总结](md/wireshark_filter.md)
 
 
 
