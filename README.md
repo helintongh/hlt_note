@@ -18,7 +18,7 @@
 - 1.16 [vmware nat模式的虚拟机无法访问外网解决办法](md/nat_vmware.md)
 - 1.17 [wireshark过滤器总结](md/wireshark_filter.md)
 - 1.18 [cmake快速入门](md/cmake_quick.md)
-
+- 1.19 [文件句柄未关闭造成的崩溃排查思路](md/file_desc_not_close.md)
 
 ## 2. 我的胡言乱语
 
