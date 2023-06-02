@@ -21,6 +21,7 @@
 - 1.19 [文件句柄未关闭造成的崩溃排查思路](md/file_desc_not_close.md)
 - 1.20 [Linux AIO从入门到实战](md/aio.md)
 - 1.21 [IntelVtune使用以及实战分析(未完成)](md/IntelVtune.md)
+- 1.22 [伪共享原因以及多线程伪共享避免](md/false_shared.md)
 
 ## 2. 我的胡言乱语
 
